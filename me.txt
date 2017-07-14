@@ -1,3 +1,4 @@
 this is me.txt
 new ine
 ali.key=ali
+wechat.key=wechat
